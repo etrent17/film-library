@@ -43,10 +43,3 @@ Debug any issues or errors that arise during testing.
 Review your code for any redundancies, inefficiencies, or code smells.
 Refactor the code to improve readability, maintainability, and performance.
 Optimize any bottlenecks or areas that can be improved.
-
-### Documentation:
-
-Provide documentation for the classes, methods, and important code sections.
-Include comments explaining the purpose, inputs, and outputs of the functions.
-Write a user guide or README file to help others understand and use your film library.
-Remember to follow good programming practices, such as using meaningful variable and method names, following coding conventions, and organizing your code into logical modules or namespaces.
