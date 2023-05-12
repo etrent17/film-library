@@ -26,22 +26,25 @@ Handle input validation and provide appropriate error messages.
 Add methods to the FilmLibrary class to save and load the film library to/from a file.
 Use serialization (e.g., XML or JSON) to persist the film library data.
 Implement error handling for file I/O operations.
-Create a User Interface (Optional):
+
+### Create a User Interface (Optional):
 
 Consider creating a graphical user interface (GUI) using a framework like Windows Forms or WPF.
 Design a visually appealing interface to display and interact with the film library.
 Implement event handlers and bindings to connect the GUI with the FilmLibrary class.
-Test and Debug:
+
+### Test and Debug:
 
 Write unit tests to validate the functionality of individual methods.
 Test the application by adding, removing, searching, and sorting films.
 Debug any issues or errors that arise during testing.
-Refactor and Optimize:
+### Refactor and Optimize:
 
 Review your code for any redundancies, inefficiencies, or code smells.
 Refactor the code to improve readability, maintainability, and performance.
 Optimize any bottlenecks or areas that can be improved.
-Documentation:
+
+### Documentation:
 
 Provide documentation for the classes, methods, and important code sections.
 Include comments explaining the purpose, inputs, and outputs of the functions.
